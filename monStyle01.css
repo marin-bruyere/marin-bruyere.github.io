@@ -7,3 +7,6 @@ h1 {
 	font-size: 20px;
 	margin-left: 10px;
 }
+.important {
+	color: purple;
+}
