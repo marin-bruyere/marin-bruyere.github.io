@@ -1,12 +1,13 @@
 body {
-	background-color: gray;
+	background-color: #b7b7b7;
 }
 h1 {
-	color: red;
+	color: #922226;
 	font-family: serif;
-	font-size: 40px;
+	font-size: 50px;
 	margin-left: 10px;
 }
 .important {
-	color: blue;
+	color: #313570;
+	font-size: 30px;
 }
